@@ -1,0 +1,7 @@
+url,has_ip,url_length,has_at,subdomains,https,domain_age,external_scripts,label
+https://google.com,0,18,0,0,1,5000,2,0
+https://facebook.com,0,20,0,0,1,4000,3,0
+http://192.168.1.1/login,1,30,0,0,0,1,5,1
+http://paypal-security-check.com,0,45,0,2,0,2,10,1
+https://amazon.com,0,18,0,0,1,6000,2,0
+http://verify-bank-login.xyz,0,50,0,3,0,4,9,1
